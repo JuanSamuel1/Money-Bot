@@ -5,7 +5,12 @@ https://discord.com/api/oauth2/authorize?client_id=824630583278960700&permission
 
 ![project screenshot](https://github.com/JuanSamuel1/Timestamp-Microservice/blob/main/timestamp-microservice.PNG)
 
-Creating this project is part of my backend web development learning in a course by freecodecamp. In general, this microservice will convert the time given in the parameter into either form of timestamp.
+When I saw a music bot in Discord, I thought it will be fun if I can make one. So, I decided to learn more about how to make a bot in discord and tried to make one. I stumbled in 2 choices, either using the discord package in Javascript or the discord package in Python. Since I am more comfortable in using Python, I decided to make it using Python. I tried to find many resources about the discord.py package until I finally felt ready to begin.
+
+Making a discord bot is not easy as you imagine, however, the API provided by Discord for developers surely make it easier. I started plan on how am I gonna make the bot behave as well as created the structure of the bot. After that, I created the function one by one until it behave as I wanted. After I finished creating it, I asked my friend to give it a try and found out that there are still many flaws and bugs in the bot. I patiently fixed the bugs and added new features to it. 
+
+After all of this journey, I am
+
 You can see the demo of the microservice in this link: https://timestamp-microservice-juan.glitch.me
 
 The API will work like the following:
