@@ -3,13 +3,13 @@ https://discord.com/api/oauth2/authorize?client_id=824630583278960700&permission
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![project screenshot](https://github.com/JuanSamuel1/Timestamp-Microservice/blob/main/timestamp-microservice.PNG)
+![project screenshot](https://github.com/JuanSamuel1/Money-Bot/blob/master/money-bot.PNG)
 
 When I saw a music bot in Discord, I thought it will be fun if I can make one. So, I decided to learn more about how to make a bot in discord and tried to make one. I stumbled in 2 choices, either using the discord package in Javascript or the discord package in Python. Since I am more comfortable in using Python, I decided to make it using Python. I tried to find many resources about the discord.py package until I finally felt ready to begin.
 
 Making a discord bot is not easy as you imagine, however, the API provided by Discord for developers surely make it easier. I started plan on how am I gonna make the bot behave as well as created the structure of the bot. After that, I created the function one by one until it behave as I wanted. After I finished creating it, I asked my friend to give it a try and found out that there are still many flaws and bugs in the bot. I patiently fixed the bugs and added new features to it. 
 
-After all of this journey, I am
+After all the ups and downs, I proudly present to you, the Money Bot.
 
 You can see the demo of the microservice in this link: https://timestamp-microservice-juan.glitch.me
 
